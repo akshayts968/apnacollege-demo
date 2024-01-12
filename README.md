@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Respository
 <br>
-Author-Akshay TS
+Author-Akshay T S
